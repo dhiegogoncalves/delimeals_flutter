@@ -1,4 +1,4 @@
-# Delimeals Flutter
+# Flutter Delimeals
 
 > Projeto desenvolvido com Flutter que demonstra como trabalhar com navegação entre telas.
 
